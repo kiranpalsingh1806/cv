@@ -1,0 +1,53 @@
+/******************************* TAG SELECTOR *************************/
+body{
+ background-color: #EAF6F6;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 6px;
+  height: 0px;
+  width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+h1:hover{
+  color : #f39233;
+  border-color: #66BFBF;
+}
+
+h3:hover{
+  color : #f39233;
+}
+
+hr:hover{
+  border-color: #9088d4;
+}
+
+/******************************* CLASS SELECTOR *************************/
+
+.skillex:hover{
+  color : #f39233;
+}
+
+.myimage:hover{
+  color : #f39233;
+  border-style: dotted;
+  border-radius: 500px;
+  border-color: #66BFBF;
+  border-style:solid;
+  border-width: 2px;
+}
+
+.skillexdata:hover{
+  color : #9088d4;
+
+}
